@@ -4,7 +4,7 @@
 👨‍🏫 **Professor**: Thomaz Maia  
 👨‍🎓 **Aluno**: João Antônio Moura Sousa  
 📅 **Semestre**: 4º Semestre  
-🛠️ **Tecnologias Utilizadas**: HTML5  
+🛠️ **Tecnologias Utilizadas**: HTML 
 
 ---
 
